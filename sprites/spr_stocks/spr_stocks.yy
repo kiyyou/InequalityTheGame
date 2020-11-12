@@ -1,6 +1,6 @@
 {
   "bboxMode": 0,
-  "collisionKind": 0,
+  "collisionKind": 1,
   "type": 0,
   "origin": 0,
   "preMultiplyAlpha": false,
@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1813,
+  "bbox_right": 356,
   "bbox_top": 0,
-  "bbox_bottom": 640,
+  "bbox_bottom": 123,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1814,
-  "height": 641,
+  "width": 357,
+  "height": 124,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"628b5c61-ffc6-4101-8d4a-79a369fe8d19","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"628b5c61-ffc6-4101-8d4a-79a369fe8d19","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"LayerId":{"name":"0189291b-e3bf-4e90-910d-8b230c87fd36","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mainfolio","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"resourceVersion":"1.0","name":"628b5c61-ffc6-4101-8d4a-79a369fe8d19","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4ee532ce-f18b-4a58-9f1f-0c295fb928e4","path":"sprites/spr_stocks/spr_stocks.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4ee532ce-f18b-4a58-9f1f-0c295fb928e4","path":"sprites/spr_stocks/spr_stocks.yy",},"LayerId":{"name":"b49673f3-10a2-49d6-a930-2cbb31504ce5","path":"sprites/spr_stocks/spr_stocks.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_stocks","path":"sprites/spr_stocks/spr_stocks.yy",},"resourceVersion":"1.0","name":"4ee532ce-f18b-4a58-9f1f-0c295fb928e4","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_mainfolio","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},
+    "spriteId": {"name":"spr_stocks","path":"sprites/spr_stocks/spr_stocks.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c900931a-0b79-4c11-892d-0f2cc66e3608","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"628b5c61-ffc6-4101-8d4a-79a369fe8d19","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0b8eb3c2-39b5-463d-bbbe-93e4de4b411d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4ee532ce-f18b-4a58-9f1f-0c295fb928e4","path":"sprites/spr_stocks/spr_stocks.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_mainfolio","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},
+    "parent": {"name":"spr_stocks","path":"sprites/spr_stocks/spr_stocks.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_mainfolio",
+    "name": "spr_stocks",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0189291b-e3bf-4e90-910d-8b230c87fd36","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b49673f3-10a2-49d6-a930-2cbb31504ce5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_mainfolio",
+  "name": "spr_stocks",
   "tags": [],
   "resourceType": "GMSprite",
 }
