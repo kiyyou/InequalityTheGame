@@ -23,7 +23,7 @@
     {"id":{"name":"spr_endfolio","path":"sprites/spr_endfolio/spr_endfolio.yy",},"order":13,},
     {"id":{"name":"obj_nextevent","path":"objects/obj_nextevent/obj_nextevent.yy",},"order":6,},
     {"id":{"name":"spr_mainfolio","path":"sprites/spr_mainfolio/spr_mainfolio.yy",},"order":0,},
-    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},"order":4,},
+    {"id":{"name":"rm_folio2","path":"rooms/rm_folio2/rm_folio2.yy",},"order":4,},
     {"id":{"name":"spr_ev_rentincrease","path":"sprites/spr_ev_rentincrease/spr_ev_rentincrease.yy",},"order":10,},
     {"id":{"name":"spr_quit","path":"sprites/spr_quit/spr_quit.yy",},"order":3,},
     {"id":{"name":"rm_folio1","path":"rooms/rm_folio1/rm_folio1.yy",},"order":0,},
@@ -44,7 +44,7 @@
     {"name":"rm_folio1","path":"rooms/rm_folio1/rm_folio1.yy",},
     {"name":"rm_settings","path":"rooms/rm_settings/rm_settings.yy",},
     {"name":"rm_stocks","path":"rooms/rm_stocks/rm_stocks.yy",},
-    {"name":"Room5","path":"rooms/Room5/Room5.yy",},
+    {"name":"rm_folio2","path":"rooms/rm_folio2/rm_folio2.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
